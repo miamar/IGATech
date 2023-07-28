@@ -7,6 +7,10 @@ body {
     outline: none !important;
   }
 
+  a {
+    cursor: pointer;
+  }
+
   a:hover {
     text-decoration: none !important;
   }
@@ -184,7 +188,7 @@ body {
 /* Landing buttons */
   .landing-btn {
     background: #FFFFFF1A;
-    border: 1px solid #FFFFFF!important;
+    border: 2px solid #FFFFFF!important;
     padding: 2rem 3.5rem;
     border: none;
     margin: auto;
@@ -192,13 +196,19 @@ body {
   }
 
   .dark .landing-btn,
+  .landing-btn.small,
   .landing-btn:hover {
     background: #F2613A;
     padding: 2rem 3.5rem;
     border: none;
     margin: auto;
     margin-top: 10%;
-    border: 1px solid #F2613A!important;
+    border: 2px solid #F2613A!important;
+  }
+
+  .landing-btn.small {
+    padding: 1rem 2.5rem;
+    margin-top: 5%;
   }
 
   .landing-btn a {
@@ -208,12 +218,14 @@ body {
     text-transform: uppercase;
   }
 
-  .dark .landing-btn:hover {
+  .dark .landing-btn:hover,
+  .landing-btn.small:hover {
     background: #FFFFFF;
-    border: 1px solid #F2613A!important;
+    border: 2px solid #F2613A!important;
   }
 
-  .dark .landing-btn:hover a {
+  .dark .landing-btn:hover a,
+  .landing-btn.small:hover a {
     color: #F2613A;
   }
 
@@ -289,15 +301,13 @@ body {
     font-weight: 300;
   }
 
-  .titolo-btn-testo.arancione h1 ,
   .titolo-btn-testo.arancione p {
-    color: #000;
+    font-weight: 400;
   }
-
 
   .titolo-btn-testo.arancione .landing-btn:hover {
     background: #FFFFFF;
-    border: 1px solid #FFFFFF!important;
+    border: 2px solid #FFFFFF!important;
   }
 
   .titolo-btn-testo.arancione .landing-btn:hover a {
@@ -329,6 +339,26 @@ body {
   height: 10rem;
   background-color: #595959;
  }
+
+ .cards a {
+  color: #10808C!important;
+  font-size: 18px;
+  font-weight: 550;
+  line-height: 204x;
+ }
+
+ .cards a:hover {
+  color: #F2613A!important;
+ }
+
+ .arrow-right path {
+  fill: #10808C;
+}
+
+.cards a:hover .arrow-right path {
+  fill: #F2613A;
+ }
+
 
  /* Full image + slideshow */
  .full-img,

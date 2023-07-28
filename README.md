@@ -25,7 +25,7 @@
 ### .arancione (class)
 
 ## cards
-- immagini, titolo e testo possono essere rimossi o aggiunti, dipende dal contenuto di cui il cliente ha bisogno al momento
+- le immagini, i titoli, i testi ei link possono essere rimossi o aggiunti, dipende dal contenuto di cui il cliente ha bisogno al momento
 
 ## titolo-grande
 
@@ -54,4 +54,5 @@ landing.css
 bootstrap.min.css
 
 ## JS
-slideshow.css
+slideshow.js
+main.js

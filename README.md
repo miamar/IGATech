@@ -42,6 +42,7 @@
 ## contacts 
 - Come sul sito Web di IGATech, ma ha un altro colore di sfondo
 - https://igatechnology.com/igatech/contacts/
+- 
 ### class: .landing
 
 ## footer

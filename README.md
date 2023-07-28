@@ -51,6 +51,7 @@ landing.html
 
 ## CSS
 landing.css
+bootstrap.min.css
 
 ## JS
 slideshow.css

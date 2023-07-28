@@ -1,4 +1,4 @@
-# Components:
+# Componenti:
 
 ## hero
 - bg immmagine

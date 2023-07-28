@@ -1,13 +1,13 @@
 # Componenti:
 
 ## hero
-- bg immmagine
+- immmagine come sfondo
 - testo bianco
 - bottone transparente
 
 ### .dark (class)
 - immmagine a destra
-- testo bbianco
+- testo nero
 - bottone arancione
 
 ## titolo-testo

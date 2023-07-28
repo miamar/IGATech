@@ -38,7 +38,7 @@
 
 ## img-gallery
 - il cliente può aggiungere tutte le immagini che desiderano (nessun limite di numero)
--
+
 ## contacts 
 - Come sul sito Web di IGATech, ma ha un altro colore di sfondo
 - https://igatechnology.com/igatech/contacts/

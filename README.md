@@ -52,5 +52,5 @@ landing.html
 ## CSS
 landing.css
 
-## CSS
-landing.css
+## JS
+slideshow.css

@@ -50,7 +50,7 @@
 landing.html
 
 ## CSS
-landing.css
+landing.css  
 bootstrap.min.css
 
 ## JS

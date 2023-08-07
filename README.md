@@ -16,7 +16,7 @@
 
 ## testo-img
 - ogni seconda riga cambia il lato (l'immagine va a sinistra e il testo a destra)
-- il cliente non può decidere se vuole avere una riga o più
+- il cliente può decidere se vuole avere una riga o più
 
 ## titolo-btn-testo
 - il cliente sceglie il colore dello sfondo

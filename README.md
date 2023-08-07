@@ -54,5 +54,5 @@ landing.css
 bootstrap.min.css
 
 ## JS
-slideshow.js
+slideshow.js  
 main.js
